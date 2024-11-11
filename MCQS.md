@@ -1,17 +1,19 @@
-Here’s the MCQs table text you can directly copy:
+# Smart Finance Project - Multiple Choice Questions (MCQs)
+
+These MCQs are designed to help test your understanding of the concepts and features involved in the Smart Finance Project. Check your knowledge with these questions!
 
 ---
 
-# MCQs for Project
-
-| MCQ | Options | Correct Answer |
-| --- | ------- | -------------- |
-| **1. What programming languages do I have experience in?** | a) Python, Java<br>b) C, C++, Java<br>c) JavaScript, Ruby<br>d) C++, PHP | b) C, C++, Java |
-| **2. How many years of experience do I have in the tech industry?** | a) 3 years<br>b) 5 years<br>c) 7 years<br>d) 10 years | b) 5 years |
-| **3. Which role did I work in at ByteXL?** | a) Software Engineer<br>b) Project Manager<br>c) Technical Trainer<br>d) Developer | c) Technical Trainer |
-| **4. What is one of the main subjects I teach?** | a) Networking<br>b) Full-stack Development<br>c) Game Development<br>d) AI and ML | b) Full-stack Development |
-| **5. What is one of my favorite coding languages?** | a) Java<br>b) C++<br>c) Python<br>d) Ruby | b) C++ |
+| **MCQ** | **Options** | **Correct Answer** |
+|---------|-------------|--------------------|
+| **1. What is the primary purpose of the Smart Finance project?** | A) To create a digital wallet<br> B) To help manage personal finances<br> C) To provide social media features<br> D) To manage emails | B) To help manage personal finances |
+| **2. Which of the following is used to create the user interface of the Smart Finance app?** | A) Python<br> B) HTML, CSS<br> C) Node.js<br> D) C++ | B) HTML, CSS |
+| **3. How does the Smart Finance project calculate the remaining budget after expenses?** | A) By subtracting expenses from the budget<br> B) By adding expenses to the budget<br> C) By multiplying budget by expenses<br> D) By ignoring expenses | A) By subtracting expenses from the budget |
+| **4. What does the expense categorization feature in Smart Finance allow users to do?** | A) Track bills<br> B) Categorize their spending (e.g., Food, Entertainment)<br> C) Create a shopping list<br> D) Transfer money between accounts | B) Categorize their spending (e.g., Food, Entertainment) |
+| **5. Which tool is used to display spending analysis in the Smart Finance app?** | A) Bootstrap<br> B) jQuery<br> C) Chart.js<br> D) React.js | C) Chart.js |
 
 ---
 
-Feel free to copy this directly!
+### Summary:
+
+These questions are designed to help you understand key features and technologies used in the Smart Finance project. Make sure you go through each topic carefully, and soon, you'll be the finance wizard who knows everything about building financial apps! 💸
