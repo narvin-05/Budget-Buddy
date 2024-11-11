@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Finance</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>Budget Buddy</h1>
+      <p>Your digital personal finance assistant</p>
+    </header>
+
+    <main>
+      <section id="budgeting">
+        <h2>Budgeting</h2>
+        <input type="number" id="budgetInput" placeholder="Set your monthly budget">
+        <input type="number" id="expenseInput" placeholder="Add monthly expenses">
+        <button onclick="updateBudget()">Update Budget</button>
+        <p id="remainingBudget">Remaining Budget: $0</p>
+      </section>
+
+      <section id="expenseTracking">
+        <h2>Expense Tracking</h2>
+        <input type="text" id="expenseDescription" placeholder="Expense Description">
+        <input type="number" id="expenseAmount" placeholder="Amount">
+        <button onclick="addTransaction()">Add Transaction</button>
+        <ul id="transactionsList"></ul>
+      </section>
+
+      <section id="goalSetting">
+        <h2>Goal Setting</h2>
+        <input type="text" id="goalInput" placeholder="Set a financial goal">
+        <button onclick="addGoal()">Add Goal</button>
+        <ul id="goalsList"></ul>
+      </section>
+
+      <section id="billReminders">
+        <h2>Bill Reminders</h2>
+        <p>Set reminders for upcoming bills to avoid late fees.</p>
+      </section>
+
+      <section id="investmentInsights">
+        <h2>Investment Insights</h2>
+        <p>Receive personalized advice on savings and investment opportunities.</p>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2024 Budget Buddy</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
